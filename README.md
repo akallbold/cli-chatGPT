@@ -1,4 +1,4 @@
-Enter directory and run
+Enter directory. Create an .env file and assign the variable OPENAI_API_KEY to your own API key. Run
 
 ```
 npm i
